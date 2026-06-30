@@ -5,7 +5,7 @@ This repository contains the final project for the Master of Data Analytics.
 ## Project Objectives
 - Predict GE15 election outcomes using GE14 and GE15 parliamentary data.
 - Compare Logistic Regression, Decision Tree, and Random Forest models.
-- Address class imbalance using SMOTE, Class Weighting, and Threshold Moving.
+
 
 ## Tools
 - Apache Hive
